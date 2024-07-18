@@ -1,5 +1,11 @@
 # Documentação do Projeto MeuMinimalApi
 
+## Instação via linux
+```
+sudo apt upgrade dotnet-sdk-8.0
+```
+
+
 ## Descrição
 
 Este projeto consiste em duas APIs mínimas desenvolvidas com .NET 6, destinadas a serem executadas em contêineres Docker. O projeto também inclui infraestrutura como código usando o Terraform para provisionar recursos na AWS.
